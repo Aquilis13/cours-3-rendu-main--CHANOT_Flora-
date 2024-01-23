@@ -1,3 +1,10 @@
+# RENDU
+
+**Nom :** `CHANOT Flora`
+
+**Localisation des tests :**
+[/tests](https://github.com/Aquilis13/cours-3-rendu-main--CHANOT_Flora-/tree/main/tests)
+
 # TP Automatisation du developpement - Test - Rendu 3
 
 Mini projet pour le rendu numéro 3 du cours d'automatisation du développement sur les tests.
